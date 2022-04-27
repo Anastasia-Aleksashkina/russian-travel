@@ -1,0 +1,21 @@
+.root__intro {
+  margin: 64px 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .root__intro {
+    margin: 88px 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .root__intro {
+    margin: 92px 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .root__intro {
+    margin: 92px 148px;
+  }
+}

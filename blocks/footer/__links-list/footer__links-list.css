@@ -1,0 +1,14 @@
+.footer__links-list {
+  margin: 0 0 48px;
+  padding: 0;
+  list-style: none;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__links-list {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 50px 57px 94px 86px 106px;
+    gap: 18px;
+  }
+}
