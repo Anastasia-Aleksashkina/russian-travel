@@ -23,4 +23,4 @@
 
 **GitHub**
 
-* [Ссылка на проект, опубликованный на GitHub Pages](https://github.com/Anastasia-Aleksashkina/russian-travel)
+* [Ссылка на проект, опубликованный на GitHub Pages](https://anastasia-aleksashkina.github.io/russian-travel/)
